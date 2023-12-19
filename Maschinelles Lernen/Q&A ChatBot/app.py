@@ -18,10 +18,7 @@ generator = pipeline("text-generation",
                      token=HUGGING_FACE_TOKEN
                      )
 
-# Logo anzeigen
-st.image('akad_main_logo.png', width=150)
-
-st.title("KOM 81 - Q&A Bot for personal support")
+st.title(" Q&A Bot for personal support")
 st.sidebar.button('🚮 Clear Chat', on_click=functions.clear_chat)
 
 # ChatHistorie initialsieren:
