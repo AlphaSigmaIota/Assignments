@@ -1,5 +1,3 @@
 # Assignments
-Im Rahmen meines Studiums muss ich die ein oder andere Hausarbeit schreiben. 
-Aber auch Programmieraufgaben lösen, besonders mit Python und R. 
-
-Diese sind sind hier zu finden...
+Im Rahmen meines Studiums schreibe ich Hausarbeiten mit Themen rund um Data Science. 
+Aber auch Programmieraufgaben gilt es zu lösen, dabei werden Programmiersprachen wie Python und/oder R verwendet. 
